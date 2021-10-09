@@ -36,10 +36,6 @@ Wholesalers get a list of distributor details along with their credit score. Thi
 
 
 Step 6: (Distributor) <br />
-On approval by a wholesaler, the distributors can see the contact details of the wholesaler and can get in touch in order to get the product
-![CreditScore](https://user-images.githubusercontent.com/83828169/136665261-b0805012-f5c8-4a1f-9968-163cccd42c59.png)
-
-
-
+On approval by a wholesaler, the distributors can see the contact details of the wholesaler and can get in touch in order to get the product <br />
 ![wholesaler-info](https://user-images.githubusercontent.com/83828169/136666366-854dcf1d-d85e-4bad-b0ca-b62903b9b146.png)
 
