@@ -26,3 +26,6 @@ Wholesalers get a list of distributor details along with their credit score. Thi
 ![distributor-requesting](https://user-images.githubusercontent.com/83828169/136666274-30d5368d-1215-4822-807b-24649ce136ee.png)
 
 ![wholesaler-dashboard](https://user-images.githubusercontent.com/83828169/136666270-96e19149-0122-410f-a9fb-d5b7c56708a6.png)
+
+![wholesaler-info](https://user-images.githubusercontent.com/83828169/136666366-854dcf1d-d85e-4bad-b0ca-b62903b9b146.png)
+
