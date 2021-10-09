@@ -7,4 +7,7 @@
 ![distributor-anumathi](https://user-images.githubusercontent.com/83828169/136664834-18eccce8-f332-4cbe-9896-83d4f485c1a8.png)
 ![Consent-accounts](https://user-images.githubusercontent.com/83828169/136664820-8ebb89f4-257f-47af-b691-3f62b5da1d59.png)
 
+![CreditScore](https://user-images.githubusercontent.com/83828169/136665261-b0805012-f5c8-4a1f-9968-163cccd42c59.png)
+
+
 
