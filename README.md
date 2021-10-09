@@ -22,3 +22,7 @@ After login a Distributor needs to complete few steps for onboarding to the appl
 Step 3: (Wholesaler)
 Wholesalers get a list of distributor details along with their credit score. This information helps them in deciding which distributor should they do business with.
 ![CreditScore](https://user-images.githubusercontent.com/83828169/136665261-b0805012-f5c8-4a1f-9968-163cccd42c59.png)
+
+![distributor-requesting](https://user-images.githubusercontent.com/83828169/136666274-30d5368d-1215-4822-807b-24649ce136ee.png)
+
+![wholesaler-dashboard](https://user-images.githubusercontent.com/83828169/136666270-96e19149-0122-410f-a9fb-d5b7c56708a6.png)
